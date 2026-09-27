@@ -1,0 +1,332 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV - Stiri (News)",RO: Aleph News
+https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="TV - Stiri (News)",RO: Aleph News
+https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="TV - Stiri (News)",RO: Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/chunklist.m3u8
+#EXTINF:-1 group-title="TV - Stiri (News)",RO: Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaMonden.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Diverse / Altele",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 group-title="Radio / Muzica Audio",RO: Campus TV Buzău
+https://campusbuzau.ro//wp-content/uploads/downloadables/radio-campus.m3u
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro@SD" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Diverse / Altele",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Diverse / Altele",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Alfa & Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Banat TV
+https://btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: HD365
+https://netstreaming.eu/hd365.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="Diverse / Altele",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Info HD
+https://netstreaming.eu/InfoHd.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Hunedoara 1
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Dotto TV
+https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Argeș TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Intermedia Suceava
+http://83.103.150.208:8080/stream/ram/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Informația TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Job TV
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Job TV
+https://jobtvserver.eu/hls/stream_src/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Curier TV
+http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Job TV
+https://jobtvserver.eu/hls/stream_higher/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: KANAL D
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: KANAL D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Diverse / Altele",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Diverse / Altele",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: KANAL D2
+https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: M9 TV
+https://netstreaming.eu/m9tv.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/chunklist.m3u8
+#EXTINF:-1 group-title="TV - Muzica",RO: Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="TV - Muzica",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Diverse / Altele",Magic TV (Romania)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Metropola TV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Moldova TV
+http://89.38.8.130:39435
+#EXTINF:-1 group-title="Diverse / Altele",RO: DJing TV
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Misa Senzațional TV
+https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Misa Senzațional TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/chunklist_w1357453584.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: LLBN
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240909T111516.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Misa Senzațional TV
+https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Nașul TV
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/livecredo/chunklist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title="TV - Stiri (News)",RO: Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Diverse / Altele",Rock TV (Romania)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 group-title="TV - Stiri (News)",RO: Realitatea Star
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="TV - Stiri (News)",Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="TV - Stiri (News)",RO: Republika NEWS
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Smart TV
+https://stream-aleph.m.ro/Aleph/Smartv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Smart TV
+https://stream-aleph.m.ro/Aleph/Smartv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Smart TV
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Speranța TV
+https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
+#EXTINF:-1 group-title="Radio / Muzica Audio",RO: Radio m2o TV
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: TeleM Botoșani
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Super TV
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Telestar1
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Tele7ABC
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Lira TV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: TV1 Satu Mare
+https://netstreaming.eu/tv1.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: TV Buzău
+http://78.96.33.89:8080/
+#EXTINF:-1 group-title="Diverse / Altele",RO: TVSat
+http://89.38.8.130:39443/
+#EXTINF:-1 group-title="Diverse / Altele",RO: TV Plus Suceava
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: TV Plus Suceava
+http://85.186.146.34:8080/
+#EXTINF:-1 group-title="Diverse / Altele",RO: Trace Urban TV
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: TV Sud
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Trace Urban TV
+https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Muscel TV
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: TeleMoldova Plus
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: RTN Chicago
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist_w878774068.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="TV - General / Divertisment",Antena 1 (Romania)
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+#EXTINF:-1 tvg-id="AntenaInternational.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512" group-title="Diverse / Altele",Antena International
+https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: RTN Chicago
+https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaStars.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" group-title="Diverse / Altele",Antena Stars
+https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
+#EXTINF:-1 group-title="Diverse / Altele",RO: Exploris
+http://iptv-online.duckdns.org:39419/
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="Diverse / Altele",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-logo="https://i.imgur.com/yHCuTap.png" group-title="Diverse / Altele",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="Diverse / Altele",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="TV - Stiri (News)",Observator News
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-id="TVRCraiova.ro@SD" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="Diverse / Altele",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRCultural.ro@SD" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Diverse / Altele",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro@SD" tvg-logo="https://i.imgur.com/5zMxDYq.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="TV - Sport",Digi Sport 1
+https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
+#EXTINF:-1 tvg-id="B1.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" group-title="TV - Stiri (News)",B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="HappyChannel.ro@SD" tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="Diverse / Altele",Happy Channel
+https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
+#EXTINF:-1 tvg-id="MoozDance.ro@SD" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Diverse / Altele",Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozRo.ro@SD" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Diverse / Altele",Mooz Ro!
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro@SD" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Diverse / Altele",Mooz Hits
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Diverse / Altele",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="TV - Sport",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Diverse / Altele",TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Romania" tvg-logo="https://i.imgur.com/io0WAkA.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Diverse / Altele",Viasat Kino Romania
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Radio / Muzica Audio",Viasat Epic Drama Romania
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Diverse / Altele",Disney Junior (Romania)
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 tvg-id="Minimax.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg" http-referrer="https://cool-tv.net/" group-title="Diverse / Altele",Minimax (Romania)
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Diverse / Altele",TMC
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Diverse / Altele",TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="TV - Stiri (News)",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="Diverse / Altele",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="PROTV.ro@HD" tvg-logo="https://i.imgur.com/zVk3WlT.png" group-title="Diverse / Altele",PRO TV
+http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
+#EXTINF:-1 tvg-id="ProArena.ro@HD" tvg-logo="https://i.imgur.com/KQmB9Cc.png" group-title="Diverse / Altele",Pro Arena
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro@HD" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="TV - General / Divertisment",Prima TV (Romania)
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
+#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="TV - Filme & Seriale",Pro Cinema
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Radio / Muzica Audio",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="Francophonie24.fr@SD" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="Diverse / Altele",Francophonie24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Diverse / Altele",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Diverse / Altele",FashionTV Paris L'Original
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" group-title="Diverse / Altele",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr@SD" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Diverse / Altele",Qwest TV Jazz & Beyond
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="TV - Stiri (News)",Euronews French
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="Diverse / Altele",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="Diverse / Altele",RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Diverse / Altele",FashionTV Secrets
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="TV - Sport",Digi Sport 4
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="TV - Sport",Digi Sport 3
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="TV - Sport",Digi Sport 2
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Diverse / Altele",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="TV - General / Divertisment",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Diverse / Altele",Autentic Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Diverse / Altele",CNBC UK
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV - Filme & Seriale",Rakuten TV Comedy Movies UK
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="Pop.uk@SD" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Diverse / Altele",Pop
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV - Filme & Seriale",Rakuten TV Action Movies UK
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Radio / Muzica Audio",Rakuten TV Drama Movies UK
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="TV - Stiri (News)",NBC News NOW
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Radio / Muzica Audio",Rakuten TV Family Movies UK
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Radio / Muzica Audio",The Graham Norton Show
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="TV - Muzica",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="TV - Muzica",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="TV - Muzica",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="TV - Muzica",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="" group-title="TV - Muzica",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="TV - Stiri (News)",ABC News Live 1
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 tvg-id="M6.fr@HD" tvg-logo="https://i.imgur.com/7GVp3fW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Diverse / Altele",M6
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Diverse / Altele",E! East
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Radio / Muzica Audio",BBC America
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk@SD" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Diverse / Altele",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Diverse / Altele",CNBC
+http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" group-title="Diverse / Altele",Entertainment Tonight
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1 tvg-id="EKeepingUp.us@SD" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Diverse / Altele",E! Keeping Up
+https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="TV - Stiri (News)",Fox News Channel
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="Diverse / Altele",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Diverse / Altele",Reuters TV
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Diverse / Altele",Top Gear
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="TV - Stiri (News)",Scripps News
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 tvg-id="Thats70s.uk@HD" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="Diverse / Altele",That's 70s
+https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Diverse / Altele",LiveNOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="Diverse / Altele",VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="Diverse / Altele",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Diverse / Altele",The Carol Burnett Show
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Diverse / Altele",SNL Vault
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+#EXTINF:-1 tvg-id="Revolt.us@SD" tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="Diverse / Altele",Revolt
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="VevoHipHop.us@SD" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Diverse / Altele",Vevo Hip Hop
+https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="TV - Stiri (News)",CBS News 24/7
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@UK" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="TV - Muzica",Vantage Music UK
+https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+#EXTINF:-1 tvg-id="AntenneReunion.fr@SD" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Diverse / Altele",Antenne Reunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
